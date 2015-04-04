@@ -1,0 +1,151 @@
+
+/* fullscreen setup */
+html, body {
+    /* give this to all tags from html to .fullscreen */
+
+    font-family: 'HelveticaNeue-light','Helvetica Neue Light','HelveticaNeue', sans-serif;
+    height:100%;
+}
+/* visual styles */
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'HelveticaNeue-light','Helvetica Neue Light','HelveticaNeue', sans-serif;
+    font-weight: 100;
+    font-size:28px;
+	color:#ffffff;
+    text-align:center;
+}
+
+p{
+    font-family: 'HelveticaNeue-light','Helvetica Neue Light','HelveticaNeue', sans-serif;
+    font-size: 16px;
+}
+
+.hidden{
+    display: none;
+}
+
+.input-text-style-form{
+    width: 80%;
+    color:#226AAE;
+    font-size: 16px;
+    height: 60px;
+}
+
+.white-button-blue-border{
+    background-color: #FFF;
+    border-color:#226AAE;
+    border-width: 5px;
+    color:  #226AAE;
+}
+
+.white-button-gray-border{
+    background-color: #FFF;
+    border-color:#969696;
+    border-width: 5px;
+    color:  #969696;
+}
+
+
+.clear-both{
+    clear: both;
+}
+
+.width-100-percent{
+    width: 100%;
+}
+.width-90-percent{
+    width: 90%;
+}
+.width-80-percent{
+    width: 80%;
+}
+
+.box-shadow{
+    box-shadow: 0px 0px 10px #888888;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.font-size-10{
+    font-size: 10px;
+}
+.font-size-12{
+    font-size: 12px;
+}
+.font-size-14{
+    font-size: 14px;
+}
+.font-size-16{
+    font-size: 16px;
+}
+.font-size-20{
+    font-size: 20px;
+}
+.font-size-24{
+    font-size: 24px;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+
+.red-color{
+    color: #FF0000;
+}
+
+.gray-color{
+    color: #969696;
+}
+
+.blue-color{
+    color:#226AAE;
+}
+.white-color{
+    color:#FFFFFF;
+}
+.black-color{
+    color:#000000;
+}
+.green-color{
+    color:#22CC22;
+}
+
+.background-blue-color{
+    background-color: #226AAE;
+}
+.background-light-gray-color{
+    background-color: #C8C8C8;
+}
+.background-white-color{
+    background-color: #FFFFFF;
+}
+
+.reset-padding-margin{
+    padding: 0px;
+    margin: 0px;
+}
+
+.padding-top-10{
+    padding-top: 10px;
+}
+.padding-top-20{
+    padding-top: 20px;
+}
+.padding-top-30{
+    padding-top: 30px;
+}
+
+.padding-bottom-10{
+    padding-bottom: 10px;
+}
+.padding-bottom-20{
+    padding-bottom: 20px;
+}
+.padding-bottom-30{
+    padding-bottom: 30px;
+}
+
